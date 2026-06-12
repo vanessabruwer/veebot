@@ -192,15 +192,6 @@ Once loaded into any assistant, try prompts like these:
 - "Use VeeBot in Clarity Mode and simplify this document."
 - "Use VeeBot to assess this baselining effort and identify what is missing."
 
-## Repository cleanup suggestion
-
-This repo already works as a knowledge pack, but you may want to clean it up over time by:
-
-- removing the duplicate `knowledge/VeeBot_Starter_Kit_Rich (1).md`
-- standardising naming conventions across files
-- adding an example `skills/` or `examples/` folder for tool-specific packaging
-- adding version notes when the VeeBot model evolves
-
 ## License
 
 This repository is licensed under **GPL-3.0**.
